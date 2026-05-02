@@ -1,10 +1,2 @@
 *.yml
 *.properties
-target/
-.idea/
-*.iml
-logs/
-*.yml
-*.properties
-target/
-.idea/
